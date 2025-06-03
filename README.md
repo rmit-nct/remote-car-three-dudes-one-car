@@ -11,7 +11,13 @@
 
 ## Images
 
+![alt text](/images/car_photo1.jpg)
+![alt text](/images/car_photo2.jpg)
+![alt text](/images/car_photo3.jpg)
+
 ## Demo video
+
+![Youtube](https://www.youtube.com/watch?v=myx7Zmuy4rU)
 
 ## Circuit diagram
 
