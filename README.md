@@ -17,7 +17,7 @@
 
 ## Demo video
 
-![Youtube](https://www.youtube.com/watch?v=myx7Zmuy4rU)
+[Youtube](https://www.youtube.com/watch?v=myx7Zmuy4rU)
 
 ## Circuit diagram
 
