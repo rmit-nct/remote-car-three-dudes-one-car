@@ -98,3 +98,11 @@ This project uses the **Dabble** library. Follow these steps to install it:
 
 - Email : khoamaidang2611@gmail.com
 - Linkedin: https://www.linkedin.com/in/kylemai261/
+
+## Contribution Table
+
+| Member Name | Contribution |
+|-------------|--------------|
+| **Mai Dang Khoa** | Arduino coding, solidwork sketching |
+| **Truong Duc Qui** | Bluetooth module setup, wire setup, assembly |
+| **Phan Le Hoang Phu** | Documents managemet |
